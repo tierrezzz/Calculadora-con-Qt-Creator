@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/stylesheets/stylesheet_01.css</file>
+        <file>src/stylesheets/stylesheet_02.css</file>
+        <file>src/stylesheets/stylesheet_03.css</file>
+    </qresource>
+</RCC>
